@@ -1,0 +1,39 @@
+﻿,ticker,company,event_type,severity,confidence,summary,news_timestamp,source
+0,YESBANK,YESBANK,Regulatory / License Action,7.17,High,NSE corporate filing for YESBANK,2025-12-10T11:41:29.000,NSE corporate filing
+1,UNIONBANK,UNIONBANK,Regulatory / License Action,7.17,High,NSE corporate filing for UNIONBANK,2025-12-12T18:05:59.000,NSE corporate filing
+2,RBLBANK,RBLBANK,Regulatory / License Action,7.38,High,NSE corporate filing for RBLBANK,2025-12-15T19:15:24.000,NSE corporate filing
+3,RBLBANK,RBLBANK,Regulatory / License Action,7.17,High,NSE corporate filing for RBLBANK,2025-12-11T19:36:29.000,NSE corporate filing
+4,RBLBANK,RBLBANK,Regulatory / License Action,7.17,High,NSE corporate filing for RBLBANK,2025-12-09T18:49:35.000,NSE corporate filing
+5,RBLBANK,RBLBANK,Regulatory / License Action,7.17,High,NSE corporate filing for RBLBANK,2025-12-09T18:42:49.000,NSE corporate filing
+6,KOTAKBANK,KOTAKBANK,Regulatory / License Action,7.17,High,NSE corporate filing for KOTAKBANK,2025-12-12T18:16:23.000,NSE corporate filing
+7,KOTAKBANK,KOTAKBANK,Regulatory / License Action,7.17,High,NSE corporate filing for KOTAKBANK,2025-12-11T22:44:36.000,NSE corporate filing
+8,KOTAKBANK,KOTAKBANK,Regulatory / License Action,7.17,High,NSE corporate filing for KOTAKBANK,2025-12-11T18:59:06.000,NSE corporate filing
+9,ICICIBANK,ICICIBANK,Regulatory / License Action,7.17,High,NSE corporate filing for ICICIBANK,2025-12-10T13:14:59.000,NSE corporate filing
+10,ICICIBANK,ICICIBANK,Regulatory / License Action,7.17,High,NSE corporate filing for ICICIBANK,2025-12-09T22:19:52.000,NSE corporate filing
+11,ICICIBANK,ICICIBANK,Regulatory / License Action,7.17,High,NSE corporate filing for ICICIBANK,2025-12-09T20:17:55.000,NSE corporate filing
+12,ICICIBANK,ICICIBANK,Regulatory / License Action,7.17,High,NSE corporate filing for ICICIBANK,2025-12-09T11:03:09.000,NSE corporate filing
+13,ICICIBANK,ICICIBANK,Regulatory / License Action,7.17,High,NSE corporate filing for ICICIBANK,2025-12-11T17:41:10.000,NSE corporate filing
+14,HDFCBANK,HDFCBANK,Regulatory / License Action,7.17,High,NSE corporate filing for HDFCBANK,2025-12-09T16:56:09.000,NSE corporate filing
+15,HDFCBANK,HDFCBANK,Regulatory / License Action,7.17,High,NSE corporate filing for HDFCBANK,2025-12-11T23:43:24.000,NSE corporate filing
+16,HDFCBANK,HDFCBANK,Regulatory / License Action,7.17,High,NSE corporate filing for HDFCBANK,2025-12-09T17:44:15.000,NSE corporate filing
+17,BANKINDIA,BANKINDIA,Regulatory / License Action,7.17,High,NSE corporate filing for BANKINDIA,2025-12-12T18:41:56.000,NSE corporate filing
+18,BANKINDIA,BANKINDIA,Regulatory / License Action,7.17,High,NSE corporate filing for BANKINDIA,2025-12-11T18:59:55.000,NSE corporate filing
+19,BANKINDIA,BANKINDIA,Regulatory / License Action,7.17,High,NSE corporate filing for BANKINDIA,2025-12-10T17:17:13.000,NSE corporate filing
+20,BANKINDIA,BANKINDIA,Regulatory / License Action,7.17,High,NSE corporate filing for BANKINDIA,2025-12-09T17:41:49.000,NSE corporate filing
+21,BANKBARODA,BANKBARODA,Regulatory / License Action,7.17,High,NSE corporate filing for BANKBARODA,2025-12-11T19:29:31.000,NSE corporate filing
+22,BANKBARODA,BANKBARODA,Regulatory / License Action,7.17,High,NSE corporate filing for BANKBARODA,2025-12-11T18:36:46.000,NSE corporate filing
+23,BANKBARODA,BANKBARODA,Regulatory / License Action,7.17,High,NSE corporate filing for BANKBARODA,2025-12-10T17:07:20.000,NSE corporate filing
+24,BANKBARODA,BANKBARODA,Regulatory / License Action,7.17,High,NSE corporate filing for BANKBARODA,2025-12-10T16:59:57.000,NSE corporate filing
+25,BANDHANBNK,BANDHANBNK,Regulatory / License Action,7.17,High,NSE corporate filing for BANDHANBNK,2025-12-12T20:40:21.000,NSE corporate filing
+26,BANDHANBNK,BANDHANBNK,Regulatory / License Action,7.17,High,NSE corporate filing for BANDHANBNK,2025-12-12T19:25:07.000,NSE corporate filing
+27,BANDHANBNK,BANDHANBNK,Regulatory / License Action,7.38,High,NSE corporate filing for BANDHANBNK,2025-12-15T20:05:33.000,NSE corporate filing
+28,BANDHANBNK,BANDHANBNK,Regulatory / License Action,7.38,High,NSE corporate filing for BANDHANBNK,2025-12-15T19:18:57.000,NSE corporate filing
+29,AXISBANK,AXISBANK,Regulatory / License Action,7.38,High,NSE corporate filing for AXISBANK,2025-12-15T20:00:57.000,NSE corporate filing
+30,AXISBANK,AXISBANK,Regulatory / License Action,7.17,High,NSE corporate filing for AXISBANK,2025-12-09T20:49:40.000,NSE corporate filing
+31,AUBANK,AUBANK,Regulatory / License Action,7.17,High,NSE corporate filing for AUBANK,2025-12-12T17:18:25.000,NSE corporate filing
+32,AUBANK,AUBANK,Regulatory / License Action,7.17,High,NSE corporate filing for AUBANK,2025-12-09T20:57:55.000,NSE corporate filing
+33,AUBANK,AUBANK,Regulatory / License Action,7.17,High,NSE corporate filing for AUBANK,2025-12-09T16:26:45.000,NSE corporate filing
+34,COMPX,Company X Ltd,Guidance Cut / Profit Warning,7.5,High,"Company X issues profit warning, cuts FY25 revenue guidance",2025-12-15T16:26:55.220,NSE corporate filing
+35,COMPY,Company Y Ltd,Financial Stress,7.53,Medium,Rating downgrade for Company Y on rising debt levels,2025-12-15T16:26:55.220,Reuters India
+36,COMPX,Company X Ltd,Guidance Cut / Profit Warning,7.5,High,"Company X issues profit warning, cuts FY25 revenue guidance",2025-12-15T16:21:02.440,NSE corporate filing
+37,COMPY,Company Y Ltd,Financial Stress,7.53,Medium,Rating downgrade for Company Y on rising debt levels,2025-12-15T16:21:02.440,Reuters India

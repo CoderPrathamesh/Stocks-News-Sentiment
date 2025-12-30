@@ -1,0 +1,24 @@
+[2025-12-24T15:01:43.092170] PIPELINE_RUN
+  raw_items_ingested: 431
+  raw_items_new: 337
+  enriched_items_created: 431
+  routine_filtered: 176
+  negative_flagged: 22
+  signals_written: 22
+  parser_version: v3.0
+  model_version: deterministic_v3
+  target_date: 2025-12-24
+  execution_time_seconds: 0.07
+
+[2025-12-24T20:23:35.574749] PIPELINE_RUN
+  raw_items_ingested: 470
+  raw_items_new: 35
+  enriched_items_created: 470
+  routine_filtered: 193
+  negative_flagged: 23
+  signals_written: 23
+  parser_version: v3.0
+  model_version: deterministic_v3
+  target_date: 2025-12-24
+  execution_time_seconds: 0.12
+

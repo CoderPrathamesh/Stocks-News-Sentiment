@@ -1,0 +1,36 @@
+[2025-12-19T00:12:28.353309] PIPELINE_RUN
+  raw_items_ingested: 388
+  raw_items_new: 300
+  enriched_items_created: 388
+  routine_filtered: 149
+  negative_flagged: 11
+  signals_written: 11
+  parser_version: v3.0
+  model_version: deterministic_v3
+  target_date: 2025-12-19
+  execution_time_seconds: 0.03
+
+[2025-12-19T13:55:20.244844] PIPELINE_RUN
+  raw_items_ingested: 404
+  raw_items_new: 11
+  enriched_items_created: 404
+  routine_filtered: 156
+  negative_flagged: 11
+  signals_written: 11
+  parser_version: v3.0
+  model_version: deterministic_v3
+  target_date: 2025-12-19
+  execution_time_seconds: 0.09
+
+[2025-12-19T19:22:29.132022] PIPELINE_RUN
+  raw_items_ingested: 236
+  raw_items_new: 14
+  enriched_items_created: 236
+  routine_filtered: 78
+  negative_flagged: 3
+  signals_written: 3
+  parser_version: v3.0
+  model_version: deterministic_v3
+  target_date: 2025-12-19
+  execution_time_seconds: 0.07
+
